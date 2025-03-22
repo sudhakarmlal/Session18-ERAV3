@@ -55,4 +55,5 @@ Step 5000: train_runtime: 4466.2598 train_samples_per_second: 17.9120 train_step
 HuggingFace Spaces application:
 Build the spaces application. Model is loaded by first loading phi-2 model and then merging with LoRA adapter generated after fine tuning. The spaces application can be found in below link:
 
-https://huggingface.co/spaces/Monimoy/fine_tuned_phi2_model
+https://huggingface.co/spaces/sudhakar272/phi2-lora-sft
+
